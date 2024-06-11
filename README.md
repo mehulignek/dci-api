@@ -30,6 +30,7 @@
 
 ```bash
 $ npm install
+$ npm install https://github.com/mehulignek/dci-commons.git
 ```
 
 ## Running the app
